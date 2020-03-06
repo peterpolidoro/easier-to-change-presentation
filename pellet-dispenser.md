@@ -2,8 +2,6 @@
 layout: presentation
 ---
 
-<video poster="poster.jpg" width="618" height="347" controls preload>
-    <source src="assests/img/pellet_dispenser.mp4"></source>
+<video poster="assets/img/pellet_dispenser.png" width="688" height="387" controls preload>
+    <source src="assets/img/pellet_dispenser.mp4"></source>
 </video>
-
-[![](assets/img/flyatar-paper.png)](flymad-paper)
