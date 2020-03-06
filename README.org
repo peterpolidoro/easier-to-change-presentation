@@ -1,0 +1,15 @@
+#+TITLE: easier-to-change-presentation
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+  [[https://peterpolidoro.github.io/easier-to-change-presentation/]]
+
+* Presentation
+
+  [[https://peterpolidoro.github.io/easier-to-change-presentation/][Slides]]
+
+  [[https://peterpolidoro.github.io/easier-to-change-presentation/text][Text]]
