@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/mouse_disk.png)](mouse-disk)
+[![](assets/img/mouse_disk.png)](mouse-reach)
