@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/ten_disk_controller.png)](tube-dispenser)
+[![](assets/img/ten_disk_controller.png)](disk-controller-changes)
