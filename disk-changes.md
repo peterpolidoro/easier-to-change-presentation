@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/disk_changes.png)](one-disk-controller)
+[![](assets/img/disk_change.png)](one-disk-controller)

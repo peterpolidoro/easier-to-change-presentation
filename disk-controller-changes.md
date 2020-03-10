@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/disk_controller_changes.png)](nature-paper)
+[![](assets/img/disk_controller_change.png)](nature-paper)
