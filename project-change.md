@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/project_change.png)](project-change)
+[![](assets/img/project_change.png)](feature-change)
