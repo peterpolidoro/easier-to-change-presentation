@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/steal_stuff.png)](steal-stuff)
+[![](assets/img/steal_stuff.png)](burglar-combined)
