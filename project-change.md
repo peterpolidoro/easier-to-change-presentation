@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/project_change.png)](easier-to-change)
+[![](assets/img/project_change.png)](document-to-model)
